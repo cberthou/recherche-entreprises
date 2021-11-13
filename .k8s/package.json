@@ -9,19 +9,19 @@
   "dependencies": {
     "@kosko/env": "^2.0.1",
     "@kubernetes-models/sealed-secrets": "^2.0.2",
-    "@socialgouv/kosko-charts": "^9.5.14",
+    "@socialgouv/kosko-charts": "^9.6.24",
     "@types/node": "^15.12.2",
     "kosko": "^1.1.5",
     "kubernetes-models": "^2.0.2",
-    "ts-node": "^10.0.0",
+    "ts-node": "^10.4.0",
     "typescript": "^4.4.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.5",
-    "@babel/plugin-transform-modules-commonjs": "^7.14.5",
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.16.0",
     "@types/jest": "^26.0.24",
     "dotenv": "^10.0.0",
-    "jest": "^27.2.2"
+    "jest": "^27.3.1"
   },
   "license": "Apache-2.0",
   "scripts": {
