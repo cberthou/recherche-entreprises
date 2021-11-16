@@ -18,7 +18,7 @@
     "@babel/runtime": "^7.15.4",
     "@elastic/elasticsearch": "^7.14.1",
     "@socialgouv/codes-naf": "^1.0.5",
-    "@socialgouv/kali-data": "^2.61.0",
+    "@socialgouv/kali-data": "^2.170.0",
     "fast-csv": "^4.3.6",
     "p-all": "^3.0.0",
     "ts-node": "^9.1.1"

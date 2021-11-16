@@ -617,10 +617,10 @@
     eslint-plugin-simple-import-sort "~7.0.0"
     eslint-plugin-sort-keys-fix "~1.1.2"
 
-"@socialgouv/kali-data@^2.61.0":
-  version "2.133.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/kali-data/-/kali-data-2.133.0.tgz#492f950c5f28b78af541a71255e3aace9de06b7c"
-  integrity sha512-d8JYEAi2lDNSaUhJ6XcFL0LkVqzf0qrCEp3SEATxZyP3uRVxHh/8KGIJBMnkKiYErvL6BjOb2jtrpjaMJaPCHg==
+"@socialgouv/kali-data@^2.170.0":
+  version "2.170.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/kali-data/-/kali-data-2.170.0.tgz#366ff563fd74b98b0186c2b7a7ef9764919726e3"
+  integrity sha512-7x8QcZs+yH4ae95fklttnIF/DxJG9ML/IR5KdAsGqYYfsXtRPJbkmAwnkHnazc9A+81rqYG2aJHzi9n2ljVQ3g==
   dependencies:
     unist-util-find "1.0.2"
     unist-util-flat-filter "1.0.0"

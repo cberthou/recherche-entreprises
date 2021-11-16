@@ -16,7 +16,7 @@
     "@babel/runtime": "^7.15.4",
     "@elastic/elasticsearch": "^7.14.1",
     "@koa/cors": "^3.1.0",
-    "@socialgouv/kali-data": "^2.132.0",
+    "@socialgouv/kali-data": "^2.170.0",
     "koa": "^2.13.3",
     "koa-router": "^10.1.1"
   },
